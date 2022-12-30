@@ -44,16 +44,16 @@ export default function Home() {
   return (
     <Fragment>
       <Head>
-        <title>My Awesome GPT-3 App</title>
+        <title>Wen GPT-33 Ser</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="bg-gradient-to-r from-pink-100 to-blue-300 min-h-screen px-4 py-16 sm:px-6 sm:py-24 md:grid md:place-items-center lg:px-8">
         <main className="flex flex-col justify-center  max-w-3xl w-full align-center">
           <h1 className="text-4xl text-center font-extrabold text-slate-800 drop-shadow sm:text-5xl mb-1">
-            My Awesome GPT-3 App...
+            This GPT-33 Sounds Dope tbh
           </h1>
           <p className="block text-sm text-center font-medium text-gray-500">
-            Here you will write your awesome description
+            Here you will write your awesome description. show your prompt design skills anon
           </p>
 
           {/* Card & Input field  */}
